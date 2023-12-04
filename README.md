@@ -18,8 +18,6 @@ Some of our models and example prompts.
 
 ## Examples
 
-Here are some examples on how GPTX-1.1 is the more better.
-
 | Model | Prompt | Output | Tokens
 | ---------- | -------- | -------- | ------
 | OpenGPT-1.0 | School | School talk contribs reassess c class well written and sourced but | 10
